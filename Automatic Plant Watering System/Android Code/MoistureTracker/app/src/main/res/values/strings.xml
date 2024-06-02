@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoistureTracker</string>
+    <string name="pump_status">PUMP STATUS</string>
+    <string name="todo">TODO</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="moisture_tracker">Moisture Tracker</string>
+</resources>

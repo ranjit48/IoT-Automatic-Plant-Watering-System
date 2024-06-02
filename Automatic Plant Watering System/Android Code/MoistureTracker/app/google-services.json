@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871138170359",
+    "project_id": "staus-6d41f",
+    "storage_bucket": "staus-6d41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871138170359:android:e095b180ccee5f6c864af2",
+        "android_client_info": {
+          "package_name": "com.example.moisturetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-oIqyC47m_jRRXVNxQsPLXGXtawhKv2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
